@@ -1,2 +1,2 @@
-# coffee-site2
-new repo midterm 
+# midterm
+Coffee Website
